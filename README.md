@@ -8,3 +8,5 @@ This repository is built step by step in the tutorial.
 It now includes some steps for Github
 
 Now we wre changing from branch 'update-readme'
+
+test 1 from ens desktop, odoo ubuntu 2 windows
